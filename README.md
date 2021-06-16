@@ -1,4 +1,4 @@
-## Data Analysis Capstone Project on Telecom Company 
+## Capstone Project - Data Analysis on Telecom Company 
 
 This project is aimed towards building an interactive dashboard to understand customers demographic characteristics based on the influencing factors such as mobile usage, geolocation, and mobile device properties. We also need to find the customers behavioral characteristics and suggest actionable insights, thus helping INSAID improve it's marketing strategy and product terms.
 
